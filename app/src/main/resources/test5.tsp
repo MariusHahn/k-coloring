@@ -1,0 +1,18 @@
+NAME : test5
+COMMENT : 5 locations
+COMMENT : Build on my own
+TYPE : TSP
+DIMENSION : 5
+EDGE_WEIGHT_TYPE : test
+NODE_COORD_SECTION
+1 5.0 1.0
+2 3.0 2.0
+3 1.0 2.0
+4 1.0 4.0
+EOF
+
+
+
+
+
+
